@@ -6,7 +6,9 @@ using System.Threading.Tasks;
 
 namespace TP1_Ruiz
 {
-    public class Class1
+    public class Correo
     {
+        public Tipo tipo { get; set; }
+        public String Casilla { get; set; }
     }
 }

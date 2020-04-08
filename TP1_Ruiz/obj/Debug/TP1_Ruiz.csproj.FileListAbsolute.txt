@@ -1,0 +1,6 @@
+C:\Users\Norman Ruiz\source\repos\TP1_Ruiz\TP1_Ruiz\obj\Debug\TP1_Ruiz.csprojAssemblyReference.cache
+C:\Users\Norman Ruiz\source\repos\TP1_Ruiz\TP1_Ruiz\obj\Debug\TP1_Ruiz.csproj.CoreCompileInputs.cache
+C:\Users\Norman Ruiz\source\repos\TP1_Ruiz\TP1_Ruiz\bin\Debug\TP1_Ruiz.dll
+C:\Users\Norman Ruiz\source\repos\TP1_Ruiz\TP1_Ruiz\bin\Debug\TP1_Ruiz.pdb
+C:\Users\Norman Ruiz\source\repos\TP1_Ruiz\TP1_Ruiz\obj\Debug\TP1_Ruiz.dll
+C:\Users\Norman Ruiz\source\repos\TP1_Ruiz\TP1_Ruiz\obj\Debug\TP1_Ruiz.pdb
